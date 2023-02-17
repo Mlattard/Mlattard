@@ -1,5 +1,3 @@
-# Mlattard
- 
 ## Mon expérience en programmation
 
 Débutant en codage. J'ai commencé à apprendre grâce à l'application Mimo il y a quelques mois.
