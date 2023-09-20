@@ -13,3 +13,21 @@ J'ai travaillé sur des projets variés tels que :
 - un site web transactionnel utilisant une base de donnée et porté sur le cloud.
 
 J'ai appris à travailler en groupe grâce à la méthode Agile/Scrum qui me permet de m'adapter rapidement et de favoriser la communication au sein d'une équipe.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+As a student in Software Development at Collège de Maisonneuve, I am currently seeking an internship starting from November 20th for a duration of 8 weeks. I am also open to internship opportunities starting from January 8th, after the completion of my program.
+
+I have developed skills in:
+- Object-Oriented Programming (OOP) using various languages: Python, Java, Kotlin;
+- Web development: HTML, CSS, JavaScript, TypeScript, Node, PHP, React;
+- Database management: PL/SQL, MySQL, PHPMyAdmin;
+- Cloud management: AWS.
+
+I have worked on diverse projects including:
+- Various software applications (library management, animal shelter management);
+- Designing a small video game;
+- A mobile application;
+- A transactional website utilizing a database and hosted on the cloud.
+
+I have learned to work in a team environment using the Agile/Scrum methodology, enabling me to adapt quickly and promote communication within a team.
