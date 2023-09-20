@@ -1,15 +1,15 @@
-## Mon expérience en programmation
+Étudiant en AEC Développement de logiciels au Collège de Maisonneuve, je suis à la recherche d'un stage de fin d'études à partir du 20 novembre pour une durée de 8 semaines. Je suis aussi ouvert aux opportunités de stage à partir du 8 janvier, après la fin de mon programme.
 
-Débutant en codage. J'ai commencé à apprendre grâce à l'application Mimo il y a quelques mois.
+J'ai développé des compétences : 
+- en POO avec divers languages : Python, Java, Kotlin ; 
+- en developpement web : HTML, CSS, JavaScript, TypeScript, Node, PHP, React :
+- en gestion de base de données : PL/SQL, mySQL, PHPMyAdmin :
+- en gestion de cloud : AWS
 
-## Mes attentes envers le cours
+J'ai travaillé sur des projets variés tels que :
+- différents logiciels (gestion de bibliothèque, de refuge animalier) ;
+- la conception d'un petit jeu vidéo ;
+- une application mobile ;
+- un site web transactionnel utilisant une base de donnée et porté sur le cloud.
 
-Apprendre et comprendre comment fonctionne le code.
-
-## Mes attentes envers le programme
-
-Être capable d'entrer dans le monde du travail directement à la suite de mon stage.
-
-## Mes interets
-
-Arts, design et photographie
+J'ai appris à travailler en groupe grâce à la méthode Agile/Scrum qui me permet de m'adapter rapidement et de favoriser la communication au sein d'une équipe.
