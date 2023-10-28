@@ -1,7 +1,7 @@
-Étudiant en AEC Développement de logiciels au Collège de Maisonneuve, je suis à la recherche d'un stage de fin d'études à partir du 20 novembre pour une durée de 8 semaines. Je suis aussi ouvert aux opportunités de stage à partir du 8 janvier, après la fin de mon programme.
+Étudiant en AEC Développement de logiciels au Collège de Maisonneuve, je suis à la recherche d'un emploi ou d'un stage à partir du 8 janvier.
 
 J'ai développé des compétences : 
-- en POO avec divers languages : Python, Java, Kotlin ; 
+- en POO avec divers languages : Python, Java, Kotlin, C#; 
 - en developpement web : HTML, CSS, JavaScript, TypeScript, Node, PHP, React :
 - en gestion de base de données : PL/SQL, mySQL, PHPMyAdmin :
 - en gestion de cloud : AWS
@@ -16,13 +16,13 @@ J'ai appris à travailler en groupe grâce à la méthode Agile/Scrum qui me per
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-As a student in Software Development at Collège de Maisonneuve, I am currently seeking an internship starting from November 20th for a duration of 8 weeks. I am also open to internship opportunities starting from January 8th, after the completion of my program.
+As a student in Software Development at Collège de Maisonneuve, I am currently seeking a junior position or an internship starting from January 8th.
 
 I have developed skills in:
-- Object-Oriented Programming (OOP) using various languages: Python, Java, Kotlin;
+- Object-Oriented Programming (OOP) using various languages: Python, Java, Kotlin, C#;
 - Web development: HTML, CSS, JavaScript, TypeScript, Node, PHP, React;
 - Database management: PL/SQL, MySQL, PHPMyAdmin;
-- Cloud management: AWS.
+- Cloud management: AWS
 
 I have worked on diverse projects including:
 - Various software applications (library management, animal shelter management);
