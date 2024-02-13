@@ -1,4 +1,4 @@
-Étudiant en AEC Développement de logiciels au Collège de Maisonneuve, je suis à la recherche d'un emploi ou d'un stage à partir du 8 janvier.
+Diplomé en développement de logiciels au Collège de Maisonneuve, je suis présentement à la recherche d'un emploi.
 
 J'ai développé des compétences : 
 - en POO avec divers languages : Python, Java, Kotlin, C#; 
@@ -16,7 +16,7 @@ J'ai appris à travailler en groupe grâce à la méthode Agile/Scrum qui me per
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-As a student in Software Development at Collège de Maisonneuve, I am currently seeking a junior position or an internship starting from January 8th.
+Graduated in Software Development at Collège de Maisonneuve, I am currently looking for a junior position.
 
 I have developed skills in:
 - Object-Oriented Programming (OOP) using various languages: Python, Java, Kotlin, C#;
